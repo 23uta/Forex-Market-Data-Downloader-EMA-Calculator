@@ -1,0 +1,1 @@
+# Forex-Market-Data-Downloader-EMA-Calculator
