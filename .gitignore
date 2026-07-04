@@ -1,0 +1,15 @@
+# --- Security & Secrets ---
+.env
+*.env
+
+# --- Python Caching & Compiled Files ---
+__pycache__/
+*.pyc
+
+# --- Market Data Files ---
+*.csv
+gold_5m_full_table.csv
+
+# --- IDEs and Editors ---
+.vscode/
+.idea/
